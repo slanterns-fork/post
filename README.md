@@ -1,1 +1,2 @@
 # post
+see post.md.
